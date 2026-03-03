@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Tool-Python-blue)
+![EDA](https://img.shields.io/badge/Analysis-EDA-lightgrey)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # PhonePe Digital Payments
 
 ## Project Overview
