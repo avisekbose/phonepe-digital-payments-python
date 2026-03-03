@@ -1,4 +1,4 @@
-# phonepe-digital-payments-python
+# PhonePe Digital Payments
 
 ## Project Overview
 This project provides a comprehensive analysis of the PhonePe Pulse dataset, spanning from Q1 2018 to Q2 2021. It explores transaction trends, user demographics, and device usage across various states and districts in India to uncover insights into the adoption of digital payments.
